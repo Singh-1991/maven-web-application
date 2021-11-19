@@ -103,7 +103,7 @@
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>Nexus</id>
 	      <name>Mithun_Maven-web-Application-Snapshot</name>
 	      <url>http://3.7.70.234:8081/repository/Mithun_Maven-web-Application-Snapshot/</url>
 	    </snapshotRepository>
