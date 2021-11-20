@@ -9,10 +9,10 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to SINGH - GitHub WebHook trigger demo - again one more time.... </h1>
-<h1 align="center"> Welcome to Singh Training Sessions.......We have a demo on  DevOps Master Program on  every day 24/7.
-	Singh Training Sessions - Very Good Training center for DevOps with AWS in Madiwala and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases.
-	I am requesting everyone. Please give your reviews in FB and Google.</h1>
+<h1 align="center"> Welcome to SINGH - GitHub WebHook trigger demo - again one more time.... </h1>
+<h1 align="center"> Welcome to Singh Training Sessions.......We have a demo on  DevOps Master Program on  every day 24/7.</h1>
+<h1 align="center"> Singh Training Sessions - Very Good Training center for DevOps with AWS in Madiwala and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases.</h1>
+<h1 align="center"> I am requesting everyone. Please give your reviews in FB and Google.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
