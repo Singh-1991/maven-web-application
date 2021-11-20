@@ -97,13 +97,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
+	      <id>Nexus</id>
 	      <name>Mithun-Maven-Web-Application-Release</name>
 	      <url>http://13.233.58.14:8081/repository/Mithun-Maven-Web-Application-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>Nexus</id>
 	      <name>Mithun-Maven-Web-Application-Snapshot</name>
 	      <url>http://13.233.58.14:8081/repository/Mithun-Maven-Web-Application-Snapshot/</url>
 	    </snapshotRepository>
