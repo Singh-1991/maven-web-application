@@ -3,13 +3,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>Mithun_maven-web-application</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
+	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>Mithun_maven-web-application</name>
+	<name>maven-web-application</name>
 
-	<description>Maven Web Project for Java Programming Language</description>
+	<description>Maven Web Project for Java Project</description>
 
 	<organization>
 		<name>Mithun Technologies</name>
@@ -21,10 +21,9 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.108.215.153:9000/</sonar.host.url>
-                <sonar.login>admin</sonar.login>
-		<sonar.password>admin</sonar.password>  
-              
+		<sonar.host.url>http://18.191.141.194:1991/</sonar.host.url>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
@@ -97,21 +96,21 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>Nexus</id>
-	      <name>Mithun-Maven-Web-Application-Release</name>
-	      <url>http://13.233.58.14:8081/repository/Mithun-Maven-Web-Application-Release/</url>
+	      <id>nexus</id>
+	      <name>maven-web-application-1-release</name>
+	      <url>http://3.144.116.90:1992/repository/maven-web-application-1-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>Nexus</id>
-	      <name>Mithun-Maven-Web-Application-Snapshot</name>
-	      <url>http://13.233.58.14:8081/repository/Mithun-Maven-Web-Application-Snapshot/</url>
+	      <id>nexus</id>
+	      <name>maven-web-application-1-snapshot</name>
+	      <url>http://3.144.116.90:1992/repository/maven-web-application-1-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>Mithun_maven-web-application</finalName>
+		<finalName>maven-web-application</finalName>
 		
 		<plugins>
 			<plugin>
