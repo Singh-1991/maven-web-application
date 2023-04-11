@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>SinghTechnologics- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions. Bengaluru,Karnataka </h1>
-<h1 align="center"> Mithun Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to Singh Software Solutions. Bengaluru,Karnataka </h1>
+<h1 align="center"> SinghTechnoLogic Software Solutions- Very Good Training center for DevOps with AWS in Nagavara near Manyata Tech Park Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,21 +34,21 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
+		Singh TechnoLogics, 
+		Nagavara, After Puneri Chai House, Beside Hyderabad Biriyani House,
 		Bangalore,
-		+91-9980923226
-		devopstrainingblr@gmail.com
+		+91-9441685894
+		sivakumarsingh.devops@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:sivakumarsingh.devops@gmail.com">Mail to Singh TechnoLogics</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>Singh TechnoLogics - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://singhTechnologics.com/">Mithun Technologies</a> </small></p>
 
 </body>
 </html>
