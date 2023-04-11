@@ -31,7 +31,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/Singh Logo.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		Singh TechnoLogics, 
@@ -48,7 +48,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Singh TechnoLogics - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://singhTechnologics.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2023 by <a href="http://SinghTechnologics.com/">Singh Technologics</a> </small></p>
 
 </body>
 </html>
