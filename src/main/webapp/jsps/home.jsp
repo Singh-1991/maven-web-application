@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Singh TechnoLogics Software Solutions. Bengaluru,Karnataka </h1>
-<h1 align="center"> Singh TechnoLogics Software Solutions- Excellent Training center for DevOps with AWS in Nagavara near Manyata Tech Park Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center"> Singh TechnoLogics Software Solutions - Excellent Training center for DevOps with AWS in Nagavara near Manyata Tech Park Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
