@@ -35,7 +35,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
 		Singh TechnoLogics, 
-		Nagavara, After Puneri Chai House, Beside Hyderabad Biriyani House,
+		Nagavara, Back to Puneri Chai House, Beside Hyderabad Biriyani House,
 		Bangalore,
 		+91-9441685894
 		sivakumarsingh.devops@gmail.com
