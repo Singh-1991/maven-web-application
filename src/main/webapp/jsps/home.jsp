@@ -37,13 +37,13 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		Singh TechnoLogics, 
 		Nagavara, Back to Puneri Chai House, After Hyderabad Biriyani House,
 		Bangalore,
-		+91-9441685894
-		sivakumarsingh.devops@gmail.com
+		Mob: +91-9441685894
+		email: sivakumarsingh.devops@gmail.com
 		Singh TechnoLogics, 
 		Kamati Street, Chinna Bazar,
 		Nellore,
-		+91-9441685894,
-		sivakumarsingh.balaji@gmail.com
+		Mob: +91-9441685894,
+		email: sivakumarsingh.balaji@gmail.com
 		<br>
 		<a href="mailto:sivakumarsingh.devops@gmail.com">Mail to Singh TechnoLogics</a>
 	</span>
