@@ -42,7 +42,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		Singh TechnoLogics, 
 		Kamati Street, Chinna Bazar,
 		Nellore,
-		+91-9441685894
+		+91-9441685894,
 		sivakumarsingh.balaji@gmail.com
 		<br>
 		<a href="mailto:sivakumarsingh.devops@gmail.com">Mail to Singh TechnoLogics</a>
